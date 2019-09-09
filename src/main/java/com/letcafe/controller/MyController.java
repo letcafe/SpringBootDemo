@@ -10,6 +10,6 @@ public class MyController {
 
     @RequestMapping(path = "hello")
     public String res() {
-        return "hello world1";
+        return "hello world2";
     }
 }
