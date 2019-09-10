@@ -12,7 +12,7 @@ public class MyController {
 
     @RequestMapping(path = "hello")
     public String res() {
-        return "hello world2";
+        return "hello world3";
     }
 
     @RequestMapping(path = "hello2")
